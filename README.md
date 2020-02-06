@@ -57,3 +57,7 @@ To run the tests you need java, maven and a chrome driver available in your syst
 `mvn verify -Denvironments.default.webdriver.base.url=https://testing.strypes.eu`
 
 All these config options can be changed in the `serenity.config` file
+
+## Report
+
+Open index.html located in ./target/site/serenity to explore the html report that serenity has generated
