@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.annotations.Subject;
 import net.serenitybdd.screenplay.questions.Text;
 import net.serenitybdd.screenplay.targets.Target;
 
-@Subject("Notification with text")
+@Subject("Notification text")
 public class NotificationQuestion implements Question<String> {
 
     private final Target notificationTarget;
