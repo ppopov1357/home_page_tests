@@ -1,4 +1,4 @@
-#Strypes Home Page tests
+# Strypes Home Page tests
 
 In this simple project, I have created several automated tests for the home page of the Strypes website
 
